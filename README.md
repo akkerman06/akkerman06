@@ -32,7 +32,7 @@ I am Frontend Developer
   <a href="https://t.me/your_telegram_username" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://example.com/telegram.svg" /> <!--Здесь нужно добавить ссылку на изображение и установить подходящие значения ширины и высоты-->
+      <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/?size=48&id=63306&format=png" /> <!--Здесь нужно добавить ссылку на изображение и установить подходящие значения ширины и высоты-->
       <img src="https://img.icons8.com/?size=48&id=63306&format=png" width="32" height="32" /> <!--Здесь нужно добавить ссылку на изображение и установить подходящие значения ширины и высоты-->
     </picture>
   </a>
