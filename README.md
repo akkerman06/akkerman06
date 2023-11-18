@@ -1,5 +1,5 @@
 Hello, I'm Islam and I'm a Junior Frontend developer.
-<font size="5" face="Arial">Текст с увеличенным размером и заданным шрифтом</font>
+<font size="15" face="Arial">Текст с увеличенным размером и заданным шрифтом</font>
 
 
 
