@@ -33,7 +33,7 @@ I am Frontend Developer
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://example.com/telegram.svg" /> <!--Здесь нужно добавить ссылку на изображение и установить подходящие значения ширины и высоты-->
-      <img src="https://example.com/telegram.svg" width="32" height="32" /> <!--Здесь нужно добавить ссылку на изображение и установить подходящие значения ширины и высоты-->
+      <img src="https://yandex.ru/images/search?text=телеграм+логотип&img_url=https%3A%2F%2Fscontent-arn2-2.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2F120539661_2799291756985772_6230332040083885537_n.jpg%3F_nc_ht%3Dscontent-arn2-2.cdninstagram.com%26_nc_cat%3D108%26_nc_ohc%3Dhgs71jXFcs4AX9crsST%26_nc_tp%3D18%26oh%3D12469fbfa8bae93dbf4bbef930d2c5a3%26oe%3D5FADFD1F&pos=2&rpt=simage&stype=image&lr=20181&parent-reqid=1700319226022491-12460421677510728373-balancer-l7leveler-kubr-yp-sas-54-BAL-3950&source=serp" width="32" height="32" /> <!--Здесь нужно добавить ссылку на изображение и установить подходящие значения ширины и высоты-->
     </picture>
   </a>
 </p>
