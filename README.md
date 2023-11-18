@@ -1,4 +1,4 @@
-Hi there 👋, I'm Yakhya and I'm a Full-stack developer.
+Hello, I'm Islam and I'm a Junior Frontend developer.
 
 Connect with me:
 Yakhya | [Telegram](https://t.me/Yakhya)
