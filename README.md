@@ -1,5 +1,5 @@
 Hello, I'm Islam and I'm a Junior Frontend developer.
-<span style="font-family: 'Arial', sans-serif; font-size: 16px;">Текст с заданным шрифтом и размером</span>
+<span style="font-family: 'Arial', sans-serif; font-size: 16px; font-weight: 900>Текст с заданным шрифтом и размером</span>
 
 
 
