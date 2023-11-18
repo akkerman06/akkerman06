@@ -22,7 +22,6 @@ Hello, I'm Islam and I'm a Junior Frontend developer.
 <br />
 <br />
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
 [<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][youtube]
 [<img align="left" alt="PostgeSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][youtube]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
@@ -42,12 +41,7 @@ Hello, I'm Islam and I'm a Junior Frontend developer.
 
 ### You can contact me:
 
-[<img align="left" alt="YouTube" width="26px" src="https://image.flaticon.com/icons/svg/174/174883.svg" />][youtube]
-[<img align="left" alt="Facebook" width="26px" src="https://image.flaticon.com/icons/svg/174/174848.svg" />][facebook]
-[<img align="left" alt="Instagram" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
-[<img align="left" alt="Twitter" width="26px" src="https://image.flaticon.com/icons/svg/174/174876.svg" />][twitter]
 
-[<img align="left" alt="CodeWars" width="320px" src="https://www.codewars.com/users/SweetCoderYouTube/badges/large" />][codewars]
 
 [telegram]: https://t.me/Islam_Haluhaev
 [instagram]: https://www.instagram.com/i_haluhaev/
