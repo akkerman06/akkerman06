@@ -29,7 +29,7 @@ I am Frontend Developer
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
     </picture> 
   </a>
-  <a href="https://t.me/your_telegram_username" target="_blank" rel="noreferrer">
+  <a href="https://t.me/Islam_Haluhaev" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/?size=48&id=63306&format=png" /> <!--Здесь нужно добавить ссылку на изображение и установить подходящие значения ширины и высоты-->
