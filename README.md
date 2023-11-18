@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Frontend Developer
 -----------------------
 
+* ✉️  You can contact me at [islamhaluhaev225@gmail.com](mailto:islamhaluhaev225@gmail.com)
+
 ### Skills
 
 <p align="left">
